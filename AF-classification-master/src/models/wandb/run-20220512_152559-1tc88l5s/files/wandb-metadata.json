@@ -1,0 +1,15 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-05-12T22:26:06.062842",
+    "startedAt": "2022-05-12T22:25:59.109277",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "xiangs-mbp.lan",
+    "username": "xianghe",
+    "executable": "/Users/xianghe/opt/anaconda3/bin/python"
+}

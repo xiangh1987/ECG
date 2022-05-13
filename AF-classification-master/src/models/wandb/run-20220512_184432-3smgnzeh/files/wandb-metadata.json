@@ -1,0 +1,16 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-05-13T01:44:37.966881",
+    "startedAt": "2022-05-13T01:44:32.481794",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "/Users/xianghe/Downloads/AF-classification-master/src/models/main.py",
+    "codePath": "main.py",
+    "host": "Xiangs-MBP",
+    "username": "xianghe",
+    "executable": "/Users/xianghe/opt/anaconda3/bin/python"
+}

@@ -110,7 +110,7 @@ for j in range(len(df_ecg)):
 X_N = np.array(X_N)
 y_ecg = df_ecg['Label']
 dg = pd.DataFrame(X_N)
-dg['label'] = y_ecg
+dg['labels'] = y_ecg
 gY = y_ecg.tolist()
 
 df = dg
